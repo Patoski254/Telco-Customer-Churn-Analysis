@@ -27,7 +27,7 @@ PyODBC
 Installation
 1. Clone the repository:
 
-git clone https://github.com/Patoski254/P4-Embedding-Machine-Learning-Models-in-GUIs.git
+git clone https://github.com/Patoski254/Telco-Customer-Churn-Analysis.git
 
 2. Navigate to the project directory:
 
